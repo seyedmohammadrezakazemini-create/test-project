@@ -1,3 +1,3 @@
-# send_amail_for_python
+# first_peroject
 
-just for test
+send email
